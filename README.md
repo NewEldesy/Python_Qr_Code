@@ -4,19 +4,11 @@ Ce programme permet de générer et de lire des codes QR à partir de texte.
 
 ## Installation
 
-1. Assurez-vous d'avoir Python installé sur votre système.
-2. Installez les dépendances nécessaires en exécutant la commande suivante :
-    ```
-    pip install opencv-python-headless qrcode PyQt5
-    ```
+### Assurez-vous d'avoir Python installé sur votre système.
 
-## Utilisation
+### Installez les dépendances nécessaires en exécutant la commande suivante :
 
-1. Exécutez le programme en exécutant la commande suivante dans votre terminal :
-    ```
-    python qr_code_generator.py
-    ```
-2. L'interface utilisateur s'ouvrira, vous permettant de charger, générer et lire des codes QR.
+#### pip install opencv-python-headless qrcode PyQt5
 
 ## Fonctionnalités
 
